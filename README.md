@@ -2,28 +2,7 @@
 
 ## Projeto - Design Thinking, UX e Metodologias Ágeis:
 
-A proposta do projeto é promover a integração das duas disciplinas abordadas em aula: SCRUM e DESIGN THINKING, 
-com o objetivo de aplicá-las de forma conjunta no desenvolvimento de software. Para alcançar esse objetivo, busquei identificar 
-um ponto de convergência entre as duas metodologias, estabelecendo uma sólida conexão entre elas. Dessa forma, esse ponto 
-em comum atuará como uma ponte, permitindo a fluidez e a sinergia entre os processos de ambas as abordagens, 
-potencializando assim os resultados do projeto.
-
-Desenvolvi este projeto com foco nas pessoas, pois acredito que são a parte mais importante do processo. Especialmente aquelas 
-inseridas nas empresas e nos negócios, pois sei que suas vidas profissionais podem ser afetadas significativamente.
-
-Meu objetivo de vida é ajudar as pessoas a superarem desafios, enxergarem oportunidades e se desenvolverem, principalmente 
-no ambiente corporativo. A pandemia mundial causou isolamento social, afetando centenas de milhares de profissionais com traumas 
-e problemas psicológicos. Muitos se sentem envergonhados e isolados, o que pode levar a pensamentos negativos e impactar seu 
-desenvolvimento profissional.
-
-Neste projeto, pretendo criar um software/site para apoiar essas pessoas dentro das empresas e negócios, ajudando-as a encontrar 
-uma saída para essa situação difícil e promovendo o crescimento em suas carreiras. Quero oferecer uma plataforma acolhedora com 
-recursos e apoio para que possam superar esses momentos desafiadores e alcançar novos patamares em suas trajetórias profissionais.
-
-Acredito que, ao promover a empatia e fornecer ferramentas eficazes, podemos fazer a diferença e oferecer esperança para 
-aqueles que estão passando por dificuldades em sua jornada profissional. Juntos, podemos construir um espaço onde todos se
-sintam valorizados, inspirados e capacitados para enfrentar os desafios do mundo corporativo, permitindo um desenvolvimento 
-profissional mais pleno e significativo.
+Projeto de Design Thinking e Metodologias Ágeis (SCRUM + DESIGN THINKING):  Unindo disciplinas para o desenvolvimento de software de alto desempenho e inovação. Foco nas pessoas, buscando apoiar profissionais em empresas e negócios, especialmente em tempos de isolamento social. Nosso objetivo é criar uma plataforma acolhedora e eficaz para superar desafios e promover crescimento profissional. Junte-se a nós nessa jornada de transformação!
 
 <br>
 
@@ -35,13 +14,13 @@ Acesse o link do Projeto <a href="./Design-Thinking.pdf"> Clique aqui </a>
 
 <br>
 
-A prototipação é uma etapa crucial do processo de desenvolvimento, consistindo na criação de versões preliminares de um produto ou 
-design para testar e validar suas funcionalidades e aparência antes da produção. Essa abordagem é essencial para identificar problemas, 
-sugerir melhorias e, acima de tudo, envolver os usuários desde o início do projeto.
+Problema: A pandemia mundial causou isolamento social, afetando a saúde mental de centenas de milhares de profissionais, levando a traumas e problemas psicológicos, afetando negativamente seu desenvolvimento profissional.
 
-Para alcançar esse objetivo, optei por utilizar a ferramenta Figma, que se mostra extremamente versátil e eficiente no processo de 
-prototipação. Com o Figma, pude criar protótipos interativos e colaborativos, permitindo que a equipe de desenvolvimento e os usuários 
-participassem ativamente do processo de revisão e feedback, tornando-o mais dinâmico e receptivo a aprimoramentos.
+Solução: Criamos um site para oferecer apoio emocional a profissionais inseridos em empresas e negócios. Nossa plataforma acolhedora proporcionará recursos e suporte para superar os desafios enfrentados, possibilitando o crescimento e o avanço em suas carreiras.
+
+Bem-vindos ao STARMIND ALTA PEFORMANCE! Somos um projeto dedicado a promover a saúde mental e o crescimento pessoal e profissional. Convidamos você a conhecer nosso protótipo e descobrir como podemos apoiá-lo em sua jornada de bem-estar emocional. 
+
+Acesse o link abaixo e embarque nessa experiência transformadora!
 
 Acesse o link do prototipo no Figma <a href="https://www.figma.com/file/qlXe1EwEA7hYc5IHNyDi8y/Prototipo----Descomplica?type=design&node-id=0-1&mode=design&t=rS9dOfGvf25SpMnx-0">Clique Aqui</a>
 
