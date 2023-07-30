@@ -14,9 +14,9 @@ Acesse o link do Projeto <a href="./Design-Thinking.pdf"> Clique aqui </a>
 
 <br>
 
-Problema: A pandemia mundial causou isolamento social, afetando a saúde mental de centenas de milhares de profissionais, levando a traumas e problemas psicológicos, afetando negativamente seu desenvolvimento profissional.
+Problema: A pandemia mundial causou isolamento social, afetando a saúde mental de milhares de profissionais, levando a traumas e problemas psicológicos, afetando negativamente seu desenvolvimento profissional.
 
-Solução: Criamos um site para oferecer apoio emocional a profissionais inseridos em empresas e negócios. Nossa plataforma acolhedora proporcionará recursos e suporte para superar os desafios enfrentados, possibilitando o crescimento e o avanço em suas carreiras.
+Solução: Criamos um site para oferecer apoio emocional a profissionais inseridos em empresas e negócios. Nossa plataforma proporcionará recursos e suporte para superar os desafios enfrentados, possibilitando o crescimento e o avanço em suas carreiras.
 
 Bem-vindos ao STARTMIND ALTA PERFORMANCE! Somos um projeto dedicado a promover a saúde mental e o crescimento pessoal e profissional. Convidamos você a conhecer nosso protótipo e descobrir como podemos apoiá-lo em sua jornada de bem-estar emocional. 
 
