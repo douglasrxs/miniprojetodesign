@@ -22,7 +22,7 @@ Bem-vindos ao STARTMIND ALTA PERFORMANCE! Somos um projeto dedicado a promover a
 
 Acesse o link abaixo e embarque nessa experiência transformadora!
 
-Acesse o link do prototipo no Figma <a href="https://www.figma.com/file/qlXe1EwEA7hYc5IHNyDi8y/Prototipo----Descomplica?type=design&node-id=0-1&mode=design&t=rS9dOfGvf25SpMnx-0">Clique Aqui</a>
+Acesse o link do prototipo no Figma <a href="https://www.figma.com/file/qlXe1EwEA7hYc5IHNyDi8y/Prototipo----StartMind?type=design&node-id=0%3A1&mode=design&t=rS9dOfGvf25SpMnx-1">Clique Aqui</a>
 
 <br>
 
