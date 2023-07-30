@@ -18,7 +18,7 @@ Problema: A pandemia mundial causou isolamento social, afetando a saúde mental 
 
 Solução: Criamos um site para oferecer apoio emocional a profissionais inseridos em empresas e negócios. Nossa plataforma acolhedora proporcionará recursos e suporte para superar os desafios enfrentados, possibilitando o crescimento e o avanço em suas carreiras.
 
-Bem-vindos ao STARMIND ALTA PEFORMANCE! Somos um projeto dedicado a promover a saúde mental e o crescimento pessoal e profissional. Convidamos você a conhecer nosso protótipo e descobrir como podemos apoiá-lo em sua jornada de bem-estar emocional. 
+Bem-vindos ao STARTMIND ALTA PERFORMANCE! Somos um projeto dedicado a promover a saúde mental e o crescimento pessoal e profissional. Convidamos você a conhecer nosso protótipo e descobrir como podemos apoiá-lo em sua jornada de bem-estar emocional. 
 
 Acesse o link abaixo e embarque nessa experiência transformadora!
 
