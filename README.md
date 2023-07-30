@@ -27,8 +27,9 @@ profissional mais pleno e significativo.
 
 <br>
 
-<a href="./Design-Thinking.pdf"> Link para o PDF do Projeto </a>
+Acesse o link do Projeto <a href="./Design-Thinking.pdf"> Clique aqui </a>
 
+<br>
 
 ## Prototipação:
 
@@ -42,6 +43,8 @@ Para alcançar esse objetivo, optei por utilizar a ferramenta Figma, que se most
 prototipação. Com o Figma, pude criar protótipos interativos e colaborativos, permitindo que a equipe de desenvolvimento e os usuários 
 participassem ativamente do processo de revisão e feedback, tornando-o mais dinâmico e receptivo a aprimoramentos.
 
-<a href="https://www.figma.com/file/qlXe1EwEA7hYc5IHNyDi8y/Prototipo----Descomplica?type=design&node-id=0-1&mode=design&t=rS9dOfGvf25SpMnx-0">Link para o FIGMA</a>
+Acesse o link do prototipo no Figma <a href="https://www.figma.com/file/qlXe1EwEA7hYc5IHNyDi8y/Prototipo----Descomplica?type=design&node-id=0-1&mode=design&t=rS9dOfGvf25SpMnx-0">Clique Aqui</a>
 
-Pra mais informações: <a href="https://api.whatsapp.com/send/?phone=5581984548244&text&type=phone_number&app_absent=0"> Fale comigo no WhatsApp </a>
+<br>
+
+Pra mais informações fale comigo através do WhatsApp: <a href="https://api.whatsapp.com/send/?phone=5581984548244&text&type=phone_number&app_absent=0"> Clique aqui </a>
